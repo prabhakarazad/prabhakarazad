@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React-native, nextjs**
 
-- 💬 Ask me about **react,redux,javascript**
+- 💬 Ask me about **React,redux,javascript**
 
 - 📫 How to reach me **prabhakarazad903@gmail.com**
 
